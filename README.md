@@ -18,3 +18,6 @@ The following command should initialize if not initialized, else resume your exe
 cd rustlings
 rustlings init
 ```
+
+## Completed
+![Fe-nish line!](image.png)
